@@ -1,2 +1,2 @@
 # bomin.github.io
-bomin's web site
+bomin's first web site
